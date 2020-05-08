@@ -1,4 +1,5 @@
 Note-taking application built with wxPython.
+![search keyword](https://github.com/fzdp/wxpython-note/blob/master/assets/demo/search.gif?raw=true)
 
 # install
 make sure latest Python and wxPython installed, then install dependencies
