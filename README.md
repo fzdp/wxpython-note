@@ -1,4 +1,5 @@
 Note-taking application built with wxPython.
+
 ![search keyword](https://github.com/fzdp/wxpython-note/blob/master/assets/demo/search.gif?raw=true)
 
 # install
@@ -13,3 +14,4 @@ read config.ini.example and create a similar config.ini file, application will c
 ```
 python main.py
 ```
+
