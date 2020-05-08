@@ -1,0 +1,9 @@
+cefpython3==66.0
+jieba==0.42.1
+numpy==1.18.1
+peewee==3.13.2
+Pillow==7.0.0
+Pypubsub==4.0.3
+six==1.14.0
+Whoosh==2.7.4
+wxPython==4.0.7.post2
