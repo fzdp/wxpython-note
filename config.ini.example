@@ -1,0 +1,7 @@
+[app]
+data_dir = data
+note_dir = data/notes
+index_dir = data/indexes
+
+[database]
+db_file = data/note.db
