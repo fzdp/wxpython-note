@@ -1,5 +1,8 @@
 Note-taking application built with wxPython.
 
+# Try orchid-notebook
+If you need more features, try [orchid notebook](https://github.com/fzdp/orchid-notebook).
+
 ![search keyword](https://github.com/fzdp/wxpython-note/blob/master/assets/demo/search.gif?raw=true)
 
 # install
