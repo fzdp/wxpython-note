@@ -1,7 +1,6 @@
-Note-taking application built with wxPython.
+## If you need more features, try [orchid notebook](https://github.com/fzdp/orchid-notebook).
 
-# Try orchid-notebook
-If you need more features, try [orchid notebook](https://github.com/fzdp/orchid-notebook).
+Note-taking application built with wxPython.
 
 ![search keyword](https://github.com/fzdp/wxpython-note/blob/master/assets/demo/search.gif?raw=true)
 
